@@ -9,10 +9,10 @@
    https://github.com/Ashish5180/DSA-Labsheet-3
    ```
 
-2. **Go to the Lab Sheet 1 directory**
-    Navigate to ```Lab-Sheet-3 ```
+2. **Go to the DSA-Lab Sheet 1 directory**
+    Navigate to ```DSA-Lab-Sheet-3 ```
     ```
-    cd .\Lab-Sheet-3
+    cd .\DSA-Lab-Sheet-3
     ```
    
 3. **Compile the Code**:
